@@ -2,11 +2,11 @@
 
 /**
  * main- prints '_putchar'
- * Return: Always 0 
+ * Return: Always 0
 */
 
-int main(void) 
-{  
+int main(void)
+{
     char word[8] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
     
     unsigned int i;
